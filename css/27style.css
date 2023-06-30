@@ -1,5 +1,5 @@
 body{
-	background-color:#dacfc7b0;
+	background-color:#ffffff;
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	margin-left: 5em;
 	margin-right: 5em;
@@ -10,63 +10,37 @@ body{
 	text-align: center;
 }
 .heading{
-	font-size: 2em;
-	font-weight: bolder;
-}
-.prof{
-	font-size: 1.5em;
-}
-.summary{
-	font-size: 1.25em;
-	text-transform: uppercase;
-}
-.contactinfo{
-	font-size: 1em;
-	text-align: center;
-}
-.subheading{
 	font-size: 1.5em;
 	font-weight: bolder;
-	color:#F29436;
+	color:#9d1bd0;
 	text-decoration: none;
 	margin-left: 1em;
-	border-top-style:solid;
 	border-top-width:0.05em;
-	border-color: gray;
 }
-.jobtitle{
+.text{
     font-size: 1em;
-    color: #4A6085;
-    font-weight: 600;
-	text-align: left;
-	text-decoration: none;
-	margin-top: 1em;
-} 
-.jobplace{
-    font-size: 1em;
-    color: #4A6085;
+	margin-left: 1.5em;
     font-weight: 400;
 	text-align: left;
 	text-decoration: none;
+	
 } 
-.data{
-	font-size: 0.8em;
-	color: #4A6085;
-	font-weight: 400;
-	text-align: left;
-	text-decoration: none;
-}
-.exp_info{
+.subheading{
 	font-size: 1em;
-	color: #4A6085;
+	font-weight: bolder;
+	color:#9d1bd0;
+	text-decoration: none;
+	margin-left: 1.5em;
+	border-top-width:0.05em;
+}
+.info{
+	font-size: 1em;
 	text-align: justify;
 	text-decoration: none;
-}
-ul{
-	list-style-type: none;
+	margin-left: 2em;
 }
 .social{
-	margin-left: 2.5em;
+	margin-left: 1.5em;
 }
 /* Links */
 a:link {
@@ -74,7 +48,7 @@ a:link {
 	color:#4A6085
 }
 a:hover{
-	color:#F29436;
+	color:#9d1bd0;
 }
 a:visited{
 	text-decoration: none;
@@ -82,7 +56,6 @@ a:visited{
 }
 /* Footer */
 footer{
-	background-color:#393F52;
 	color:#4A6085;
 	text-align: center;
 }
