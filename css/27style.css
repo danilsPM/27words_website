@@ -10,34 +10,37 @@ body{
 	text-align: center;
 }
 .heading{
-	font-size: 1.5em;
+	font-size: 2em;
 	font-weight: bolder;
 	color:#9d1bd0;
 	text-decoration: none;
-	margin-left: 1em;
 	border-top-width:0.05em;
 }
 .text{
     font-size: 1em;
-	margin-left: 1.5em;
     font-weight: 400;
 	text-align: left;
 	text-decoration: none;
 	
 } 
 .subheading{
-	font-size: 1em;
+	font-size: 1.5em;
 	font-weight: bolder;
 	color:#9d1bd0;
 	text-decoration: none;
-	margin-left: 1.5em;
+	border-top-width:0.05em;
+}
+.subheading2{
+	font-size: 1em;
+	font-weight: bolder;
+	color:#000000;
+	text-decoration: none;
 	border-top-width:0.05em;
 }
 .info{
 	font-size: 1em;
 	text-align: justify;
 	text-decoration: none;
-	margin-left: 2em;
 }
 .social{
 	margin-left: 1.5em;
