@@ -41,14 +41,18 @@ body{
 	color:#000000;
 	text-decoration: none;
 	border-top-width:0.05em;
+	padding-left: 0.5em;
 }
 .info{
+	padding-left: 1em;
 	font-size: 1em;
 	text-align: justify;
 	text-decoration: none;
 }
+.contact {
+	text-align: center;
+}
 .social{
-	margin-left: 1.5em;
 }
 /* Links */
 a:link {
