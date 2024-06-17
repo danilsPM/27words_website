@@ -1,3 +1,8 @@
+/* Header */
+header{
+	text-align: center;
+}
+
 body{
 	background-color:#ffffff;
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -57,6 +62,7 @@ a:visited{
 	text-decoration: none;
 	color:#4A6085;
 }
+
 /* Footer */
 footer{
 	color:#4A6085;
